@@ -56,23 +56,21 @@ Adultez
 
 * 2.009 Interrumpimos el proyecto de migración por discrepancias y me retiro de la empresa, retorno a San Juan de Los Morros.
 
-* 2.010 Inicio el desarrollo de la versión de Canaima 2.1 para el Centro Nacional de CNTI.
+* 2.010 Inicio el desarrollo de la versión de Canaima 2.1 para el Centro Nacional de Tecnologías (CNTI).
 
     Para mediados del mismo año, comienzo a trabajar como programador para la Universidad Rómulo Gallegos.
 
     Para finales del 2.010, coordino la organización de la 4ta. Cayapa Canaima en San Juan de los Morros.
     
-* 2.011 Comienzo el proyecto del Sistema de Gestión Académica (pyscde)  
+* 2.011 Comienzo el proyecto del Sistema de Gestión Académica para la Universidad Rómulo Gallegos (pyscde)  
 
 * 2.012 Nace mi hija Kristal Nashira.
 
 * 2.013 Participio en el proyecto Astro en Movistar.
 
-    Durante ese mismo año, realicé los juegos de HTML5 para el Fondo Venezolano de Reconversión Industrial y Tecnológica (FONDOIN)
+    Durante ese mismo año, realicé unos juegos en HTML  para el Fondo Venezolano de Reconversión Industrial y Tecnológica (FONDOIN)
 
 * 2.014 Nace mi hijo Dante Tobías.
 
     Comienzo a trabajar para como freelance para el Consorcio Sandos.
-
-
 
