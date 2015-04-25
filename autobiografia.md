@@ -26,7 +26,7 @@ Adolescencia
 
 * 1.995 Nos mudamos a San Juan de los Morros, Estado Guárico
 
-* 1.999 me mudo a casa de mi padre en la Urb. La Esmeralda en Valencia, y comienzo a estudiar en la Universidad Tecnológica del Centro en Guacara
+* 1.999 Me mudo a casa de mi padre en la Urb. La Esmeralda en Valencia, y comienzo a estudiar en la Universidad Tecnológica del Centro en Guacara
 
 * 2.001 Coordino la instalación de GNU/Linux en los laboratorios de la Universidad.
 
@@ -36,7 +36,7 @@ Adolescencia
 Adultez
 =======
 
-* 2.002 Inicio mis trabajos para la Editorial Aventura como programador web para la página de la revista Rutas.
+* 2.002 Inicio mis trabajos para la Editorial Aventura como programador web para la página de la revista RUTAS.
 
 * 2.003 Comienzo a trabajar para un ex-compañero de estudio en su empresa Encoder Systems como programador web.
 
@@ -73,5 +73,6 @@ Adultez
 * 2.014 Nace mi hijo Dante Tobías.
 
     Comienzo a trabajar para como freelance para el Consorcio Sandos.
+
 
 
